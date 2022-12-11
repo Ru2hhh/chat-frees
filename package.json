@@ -1,0 +1,16 @@
+{
+  "name": "RepMes",
+  "version": "1.0.0",
+  "description": "Huỳnh Quý (quyhuynh1309@gmail.com)",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Huỳnh Quý",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1"
+  }
+}
